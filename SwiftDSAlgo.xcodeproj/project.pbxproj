@@ -10,6 +10,7 @@
 		304A066A28E37CF6008B9A49 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304A066928E37CF6008B9A49 /* main.swift */; };
 		304A067128E37DBC008B9A49 /* SumOfTwoElementsInArrayEqualtoTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304A067028E37DBC008B9A49 /* SumOfTwoElementsInArrayEqualtoTarget.swift */; };
 		304A067328E386B2008B9A49 /* MostRepetingNumberInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304A067228E386B2008B9A49 /* MostRepetingNumberInArray.swift */; };
+		304A067528E39419008B9A49 /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304A067428E39419008B9A49 /* ReverseString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		304A066928E37CF6008B9A49 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		304A067028E37DBC008B9A49 /* SumOfTwoElementsInArrayEqualtoTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfTwoElementsInArrayEqualtoTarget.swift; sourceTree = "<group>"; };
 		304A067228E386B2008B9A49 /* MostRepetingNumberInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostRepetingNumberInArray.swift; sourceTree = "<group>"; };
+		304A067428E39419008B9A49 /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				304A066928E37CF6008B9A49 /* main.swift */,
 				304A067028E37DBC008B9A49 /* SumOfTwoElementsInArrayEqualtoTarget.swift */,
 				304A067228E386B2008B9A49 /* MostRepetingNumberInArray.swift */,
+				304A067428E39419008B9A49 /* ReverseString.swift */,
 			);
 			path = SwiftDSAlgo;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				304A067328E386B2008B9A49 /* MostRepetingNumberInArray.swift in Sources */,
+				304A067528E39419008B9A49 /* ReverseString.swift in Sources */,
 				304A067128E37DBC008B9A49 /* SumOfTwoElementsInArrayEqualtoTarget.swift in Sources */,
 				304A066A28E37CF6008B9A49 /* main.swift in Sources */,
 			);
