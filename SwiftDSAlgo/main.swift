@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+print(findTheSumTarget2(array: [4,6,4], target: 8))
+
 
