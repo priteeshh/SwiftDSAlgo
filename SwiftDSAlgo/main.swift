@@ -16,3 +16,5 @@ print(repetingNumber(array: [1,2,3,3,4,5,5,5,6,7,8,0]))
 //var res = ele.reduce(Int.min, {min($0,$1)})
 //print(ele)
 print(reverseString2(str: "priteesh"))
+
+print(printFibonacciSeries(value: 9))
